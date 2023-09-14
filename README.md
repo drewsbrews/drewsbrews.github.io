@@ -16,7 +16,3 @@ Im the kind of person that likes to think outside the box and likes to solve pro
 ## Links
 
 * [LinkedIn](www.linkedin.com/in/andrew-mendoza-903a8828a)
-
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
->
-> Every line (blank or not) of a block quote begins with '>', followed by a space.
