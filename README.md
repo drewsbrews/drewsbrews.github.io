@@ -9,9 +9,9 @@ Im the kind of person that likes to think outside the box and likes to solve pro
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](git@github.com:ddc-java-16/hello-world-drewsbrews.git)
 
-* Hello World: Android app
+* [Hello World: Android app]
 
 ## Links
 
